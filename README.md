@@ -1,1 +1,2 @@
-#this project is only visible on androids(responsive). this project is not commplete till. 
+#this Netflix clone visible only desktop side. above 900px screen size.
+I am working on it to make responsive on all devices.
